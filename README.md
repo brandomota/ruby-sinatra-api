@@ -18,7 +18,7 @@ REST API built in Ruby, using Sinatra Framework.
 
 ### TODO
 
-- [ x ] initial structure
+- [x] initial structure
 - [ ] add routes
 - [ ] add DB support
 - [ ] add CRUD structure
